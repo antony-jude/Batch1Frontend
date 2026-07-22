@@ -5,10 +5,11 @@ import heroImg from './assets/hero.png'
 import './App.css'
 
 function App() {
-   return( 
+   return (
      <>
        <h1> Antony </h1>
      </>
-       }
+   )
+}
 
 export default App
